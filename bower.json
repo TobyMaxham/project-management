@@ -1,0 +1,12 @@
+{
+  "name": "dasdl",
+  "version": "1.0.7",
+  "license": "Apache",
+  "main": [
+    "public/dist/css/sb-admin-2.css",
+    "public/dist/js/sb-admin-2.js"
+  ],
+  "dependencies": {
+    "startbootstrap-sb-admin-2": "~1.0.7"
+  }
+}
